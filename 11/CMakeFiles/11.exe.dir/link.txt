@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/11.exe.dir/11.cpp.o  -o 11.exe 
